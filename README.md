@@ -1,2 +1,2 @@
 # diky-project
-membuat project bebas
+membuat apa saja
